@@ -10,7 +10,7 @@ class Blog
 				puts "********#{post.title}********"
 			else
 				puts post.title
-			end	
+			end
 			puts post.date
 			puts post.text
 			puts "-------------"
